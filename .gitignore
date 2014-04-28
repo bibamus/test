@@ -1,0 +1,7 @@
+.idea/
+*.iml
+*.iwd
+out/
+doc/
+*.class
+hs_err_pid*
